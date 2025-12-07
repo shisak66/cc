@@ -44,7 +44,7 @@ def keep_alive():
 # --- End Flask Keep Alive ---
 
 # --- Configuration ---
-TOKEN = '8533123697:AAEgquFLzm6XAuDUA6oymTN4XlC3yurx9N8' # Replace with your actual token
+TOKEN = '8533123697:AAGxbJ3kK88fR-s_ErNGs7ukYdImilbKPnk' # Replace with your actual token
 OWNER_ID = 8260945171 # Replace with your Owner ID
 ADMIN_ID = 8260945171 # Replace with your Admin ID
 YOUR_USERNAME = 'Shopilover ' # Replace with your Telegram username (without the @)
